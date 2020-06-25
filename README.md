@@ -11,6 +11,6 @@ On the Contact page, the "Send" button links to a "Thank You" confirmation page,
 ## Website Screenshots
 <img src="https://github.com/chidinmanze/travelmemoryportfolio/blob/master/Portfolio1.PNG" alt="Home page screenshot">
 
-<img scr="https://github.com/chidinmanze/travelmemoryportfolio/blob/master/Portfolio2.PNG" alt="Portfolio page screenshot">
+<img src="https://github.com/chidinmanze/travelmemoryportfolio/blob/master/Portfolio2.PNG" alt="Portfolio page screenshot">
 
-<img scr="https://github.com/chidinmanze/travelmemoryportfolio/blob/master/Portfolio3.PNG" alt="Contact page screenshot">
+<img src="https://github.com/chidinmanze/travelmemoryportfolio/blob/master/Portfolio3.PNG" alt="Contact page screenshot">
